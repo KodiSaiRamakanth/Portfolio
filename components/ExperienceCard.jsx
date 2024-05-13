@@ -42,10 +42,14 @@ const ExperienceCard = ({ data }) => {
 								alt={data.companylogo}
 							/>
 						</div>
-						<CardTitle tag="h5">{data.role}</CardTitle>
+						<CardTitle tag="h5">
+						{data.role}
+							<div><p>{data.desc}</p></div>
+
+							</CardTitle>
 						<CardSubtitle>{data.date}</CardSubtitle>
 						<CardText className="description my-3 text-left">
-							{data.desc}
+							
 							<ul>
 								{data.descBullets
 									? data.descBullets.map((desc) => {

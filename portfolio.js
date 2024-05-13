@@ -59,7 +59,7 @@ export const skillsSection = {
 			skillName: "JavaScript",
 			fontAwesomeClassname: "logos:javascript",
 		},
-		
+
 		{
 			skillName: "reactjs",
 			fontAwesomeClassname: "vscode-icons:file-type-reactjs",
@@ -84,7 +84,7 @@ export const skillsSection = {
 			skillName: "git",
 			fontAwesomeClassname: "logos:git-icon",
 		},
-		
+
 	],
 };
 
@@ -95,81 +95,79 @@ export const SkillBars = [
 	},
 	{
 		Stack: "Backend",
-		progressPercentage: "40",
+		progressPercentage: "60",
 	},
 	{
 		Stack: "Programming",
-		progressPercentage: "60",
+		progressPercentage: "80",
 	},
 ];
 
 export const educationInfo = [
 	{
-		schoolName: "MLR Institute Of Technology",
-		subHeader: "Bachelor of Technology in Computer Science",
-		duration: "2018 - 2021",
-		desc: "Class Representative(CR)",
-		descBullets: [
-			"Core Team member of CIE",
-			"Member and organizer of START UP club.",
-			"Organizing Committee Member for INVENTRON - a national level Hackathon.",
-		],
-	},
-	{
-		schoolName: "Ellenki College Of Engg.Tech",
-		subHeader: "Diploma in Electronics and Communication Engineering",
-		duration: "2015 - 2018",
-		desc: "Stood 2nd in Technical Paper Presentation -2017, a national level symposium.",
-		descBullets: [
-			"Class Representative(CR)",
-			"Presented a paper on Business Strategy representing our team, THE TEAM PHOENIX, at MLR INSTITUTE OF TECHNOLOGY, Dundigal, in the year 2018",
-		],
-	},
-	{
-		schoolName: "Kendriya Vidyalaya",
-		subHeader: "CBSE",
-		duration: "2005-2015",
+		schoolName: "University Of South Florida",
+		subHeader: "Master of Science in Business Analytics and Information Systems",
+		duration: "AUG 2023 - Present",
 		desc: "",
-		descBullets: [
-			
-		],
+
+
 	},
+	{
+		schoolName: "MLR Institute of Technology",
+		subHeader: "Bachelor of Technology, Computer Science and Engineering",
+		duration: "2015 - 2018",
+		desc: "",
+
+	},
+
 ];
 
 export const experience = [
+
+	{
+		role: "Software Developer ",
+		company: "Algoscale Technologies",
+		companylogo: "/img/icons/common/algoscale.png",
+		date: "May 2022 - June 2023",
+		desc: "(.Net Full Stack)",
+		descBullets: [
+			"Built highly responsive features to application using Angular, leading to a 20% increase in client engagement.",
+			"Refined back - end API services with a focus on clean, scalable code and RESTful principles.",
+			"Integrated React components into existing applications to improve user experience and page performance by over 30 %.",
+			"Architected and implemented a scalable.NET Core solutions for a US HealthCare",
+			"Wrote elegant, self - documenting code, easy to read and adapt for other developers."
+
+		]
+			
+	},
 	{
 		role: "Traine Software Engineer",
 		company: "Kapil IT Solutions",
 		companylogo: "/img/icons/common/kapil.png",
-		date: "April 2021 – Present",
-		desc: "Full Stack Developer: Angular 9, .Net",
+		date: "April 2021 - April 2022",
+		desc: "(.Net Full Stack)",
 		descBullets: [
-			"Developing & Building Finance Domain ERP Tools.",
-			"Determined architectural and product design details for open-ended tasks or specifications.",
-			"Wrote elegant, self-documenting code, easy to read and adapt for other developers."
+			"Developing & Building Finance Domain ERP Tools using Angular 9.",
+			"Analyzed business requirements, participated in technical design, development and testing of various modules assigned.",
+			"Maintained a suite of ASP.NET MVC web applications, improving code quality and maintainability by refactoring legacy systems",
+			"Developed app integration with REST and other APIs for Google Maps, social media logins, payment processors, and other services",
+			"Wrote elegant, self - documenting code, easy to read and adapt for other developers."
 		],
 	},
 	{
-		role: "Android Developer Intern",
+		role: "Android Developer",
 		company: "OSOS Pvt.Ltd",
 		companylogo: "/img/icons/common/ososlogo.svg",
-		date: "JULY 2020 – JAN 2021",
-		desc:[ 
-			"Handling the back-office operations (back end) of the app.",
+		date: "July 2020 – January 2021",
+		desc: "(Internship)",
+		descBullets: [
+			"Handling the back - office operations(back end) of the app in Java.",
 			"Implemented features for various applications in Java, Kotlin, and C++.",
-			"Collaborated with quality engineers, user research, product management, design, and support teams to ensure quality in all phases of app development. "
+			"Collaborated with quality engineers, user research, product management, design, and support teams to ensure quality in all phases of app development.",
+			"Worked closely with core technology teams and other platform teams to balance cross - platform Consistency with Android - optimization.",
+			"Wrote elegant, self - documenting code, easy to read and adapt for other developers."
 		]
-	},
-	{
-		role: "Web Developer Intern",
-		company: "ENTREESPHERE",
-		companylogo: "/img/icons/common/logo3.png",
-		date: "March 2019 – Aug 2019",
-		desc:[ 
-			"Designed and developed dynamic and interactive websites using MEAN Stack.",
-			"Fixed bugs from existing websites and implemented enhancements that significantly improved web functionality and speed."
-	]
-	},
+	}
 ];
 
 export const projects = [
@@ -177,17 +175,10 @@ export const projects = [
 		name: "Face Mask Detector",
 		desc: " Developed using Python TensorFLow and Keras.",
 		link: "https://www.linkedin.com/posts/sairamakanthkodi_artificialintelligence-machinelearning-deeplearning-activity-6676169275054661632-BDUI",
-		github:"https://github.com/KodiSaiRamakanth/Face-Mask-Detector",
+		github: "https://github.com/KodiSaiRamakanth/Face-Mask-Detector",
 
 	},
-	{
-		name: "Freelance Projects",
-		desc: [
-			"E-commerce - Mobile and Web Applications and many more.",
-			"Worked with an enthusiastic team"
-			],
-		link: "http://tarkeshdeva.herokuapp.com/",
-	},
+	
 	{
 		name: "COVID-19 Global Tracker",
 		desc: "Designed and Developed using Tableau",
