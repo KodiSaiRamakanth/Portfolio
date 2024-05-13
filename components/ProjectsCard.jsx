@@ -14,6 +14,7 @@ const ProjectsCard = ({ data }) => {
 							<div className="pl-4">
 								<h3>{data.name}</h3>
 								<p className="description mt-3">{data.desc}</p>
+								<p className="description mt-3">{data.tech}</p>
 								{data.github ? (
 									<Button
 										className="btn-icon"

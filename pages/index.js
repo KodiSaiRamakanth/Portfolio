@@ -37,7 +37,7 @@ export default function Home({ githubProfileData }) {
 						"reactjs ",
 						"contextapi",
 						"redux",
-						"Hyderabad"
+						"Tampa"
 					],
 				}}
 			/>
