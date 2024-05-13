@@ -47,3 +47,13 @@ node_modules
 .next/react-loadable-manifest.json
 yarn.lock
 .next/build-manifest.json
+.next/static/webpack/components_GithubProfileCard_jsx.f437565e7db1778ab160.hot-update.js
+.next/static/webpack/components_Navigation_jsx.f437565e7db1778ab160.hot-update.js
+.next/static/webpack/containers_Education_jsx.f437565e7db1778ab160.hot-update.js
+.next/static/webpack/containers_Experience_jsx.f437565e7db1778ab160.hot-update.js
+.next/static/webpack/containers_Greetings_jsx.f437565e7db1778ab160.hot-update.js
+.next/static/webpack/containers_Proficiency_jsx.f437565e7db1778ab160.hot-update.js
+.next/static/webpack/containers_Projects_jsx.f437565e7db1778ab160.hot-update.js
+.next/static/webpack/containers_Skills_jsx.f437565e7db1778ab160.hot-update.js
+.next/static/webpack/f437565e7db1778ab160.webpack.hot-update.json
+.next/static/webpack/webpack.f437565e7db1778ab160.hot-update.js
