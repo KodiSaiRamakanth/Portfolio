@@ -5,7 +5,7 @@ export const greetings = {
 	title: "Hi all, I'm Ramakanth",
 	description:
 		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with Angular / JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.",
-	resumeLink: "https://drive.google.com/file/d/1niXNEHIEAoCpb335ZNOY3JcbYylCx-f6/view",
+	resumeLink: "https://drive.google.com/file/d/16y63zU3Nek7t2nDGcyjcJIlKRf_5da1x/view",
 };
 
 export const openSource = {
@@ -108,15 +108,15 @@ export const educationInfo = [
 		schoolName: "University Of South Florida",
 		subHeader: "Master of Science in Business Analytics and Information Systems",
 		duration: "AUG 2023 - Present",
-		desc: "",
+		desc: "CGPA :  3.77",
 
 
 	},
 	{
 		schoolName: "MLR Institute of Technology",
 		subHeader: "Bachelor of Technology, Computer Science and Engineering",
-		duration: "2015 - 2018",
-		desc: "",
+		duration: "2018 - 2021",
+		desc: "CGPA :  3.66",
 
 	},
 
