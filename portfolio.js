@@ -138,7 +138,7 @@ export const experience = [
 			"Wrote elegant, self - documenting code, easy to read and adapt for other developers."
 
 		]
-			
+
 	},
 	{
 		role: "Traine Software Engineer",
@@ -178,13 +178,33 @@ export const projects = [
 		github: "https://github.com/KodiSaiRamakanth/Face-Mask-Detector",
 
 	},
-	
+
 	{
 		name: "COVID-19 Global Tracker",
 		desc: "Designed and Developed using Tableau",
 		github: "https://github.com/KodiSaiRamakanth",
 		link: "https://public.tableau.com/app/profile/sai.ramakanth.kodi/viz/COVID-19GlobeTracker/Dashboard1",
 	},
+	{
+		name: "COBALT (by Claim shark)",
+		desc: "COBALT (by Claim Shark) is US health care app which deals with health insurance of the users(claims, payments etc.) with automated BOT to verify the user’s data with dynamic dashboards, reports.",
+		tech:"Technologies Used: Angular 13, .NET, SQL, AZURE",
+	},
+	{
+		name: "POS (Point Of Sale)",
+		desc:"POS (Point Of Sale) is a complete Billing Management App with Sales, Inventory, Purchase, Security, Billing, Helpdesk, Remote Printers Integration, and Smart Dashboards of sales.",
+		tech:"Technologies Used: Angular 11, .Net, PostgreSQL, Cordova, jQuery"
+	},
+	{
+		name:"EasyChit",
+		desc:"Easy Chit is a Loaning and Finance application. EasyCHIT is being continuously updated with new tech and real-world operations workflow of over 300+ branches so your business can leverage all our learning’s and experiences to grow your chit fund business efficiently.",
+		tech:"Technologies Used: Angular 9, .NET, PostgreSQL, C#"
+	},
+	{
+		name:"Spaarks (Mobile & WEB APP)",
+		desc:"Spaarks is a local social network where you can discover shops, services, friends, jobs, and events near you. This is not a platform for buyers alone, instead sellers, home businesses and freelancers can also promote and sell your products and services in the local area.",
+		tech:" Technologies Used: JAVA, XML, KOTLIN, Node JS, Angular"
+	}
 ];
 
 
