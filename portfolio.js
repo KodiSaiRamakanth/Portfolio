@@ -188,12 +188,12 @@ export const projects = [
 	{
 		name: "COBALT (by Claim shark)",
 		desc: "COBALT (by Claim Shark) is US health care app which deals with health insurance of the users(claims, payments etc.) with automated BOT to verify the user’s data with dynamic dashboards, reports.",
-		tech:"Technologies Used: Angular 13, .NET, SQL, AZURE",
+		tech:"Technologies Used: Angular 13, React Js, .NET, SQL, AZURE",
 	},
 	{
 		name: "POS (Point Of Sale)",
 		desc:"POS (Point Of Sale) is a complete Billing Management App with Sales, Inventory, Purchase, Security, Billing, Helpdesk, Remote Printers Integration, and Smart Dashboards of sales.",
-		tech:"Technologies Used: Angular 11, .Net, PostgreSQL, Cordova, jQuery"
+		tech:"Technologies Used: Angular 11,React Js .Net, PostgreSQL, Cordova, jQuery"
 	},
 	{
 		name:"EasyChit",
