@@ -131,7 +131,7 @@ export const experience = [
 		date: "May 2022 - June 2023",
 		desc: "(.Net Full Stack)",
 		descBullets: [
-			"Built highly responsive features to application using Angular, leading to a 20% increase in client engagement.",
+			"Built highly responsive features to application using React , Angular, leading to a 20% increase in client engagement.",
 			"Refined back - end API services with a focus on clean, scalable code and RESTful principles.",
 			"Integrated React components into existing applications to improve user experience and page performance by over 30 %.",
 			"Architected and implemented a scalable.NET Core solutions for a US HealthCare",
