@@ -42,22 +42,11 @@ const ExperienceCard = ({ data }) => {
 								alt={data.companylogo}
 							/>
 						</div>
-						<CardTitle tag="h5">
-						{data.role}
-							<div><p>{data.desc}</p></div>
 
-							</CardTitle>
+						<CardTitle tag="h5">{data.role}</CardTitle>
 						<CardSubtitle>{data.date}</CardSubtitle>
-						<CardText className="description my-3 text-left">
-							
-							<ul>
-								{data.descBullets
-									? data.descBullets.map((desc) => {
-											return <li key={desc}>{desc}</li>;
-									  })
-									: null}
-							</ul>
-						</CardText>
+						{data.desc && <CardText className="mt-2">{data.desc}</CardText>}
+
 					</CardBody>
 				</Card>
 			</Fade>
