@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Sai Ramakanth Kodi",
 	title: "Hi all, I'm Ramakanth",
 	description:
-		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with Angular / JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.",
+		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with Angular / React.js / JavaScript / Nodejs and some other cool libraries and frameworks.",
 	resumeLink: "https://drive.google.com/file/d/16y63zU3Nek7t2nDGcyjcJIlKRf_5da1x/view",
 };
 
@@ -107,7 +107,7 @@ export const educationInfo = [
 	{
 		schoolName: "University Of South Florida",
 		subHeader: "Master of Science in Business Analytics and Information Systems",
-		duration: "AUG 2023 - Present",
+		duration: "AUG 2023 - May 2025",
 		desc: "CGPA :  3.77",
 
 
@@ -144,7 +144,7 @@ export const experience = [
 		company: "Kapil IT Solutions",
 		companylogo: "/img/icons/common/kapil.png",
 		date: "April 2019 - April 2021",
-		desc: "(React & Angular)",
+		//desc: "(React & Angular)",
 		descBullets: [
 			"Designed and implemented interactive web applications using React, Angular, and TypeScript.",
 			"Optimized web performance, reducing page load times by 30% through code splitting and lazy loading.",
@@ -159,13 +159,12 @@ export const experience = [
 		company: "OSOS Pvt.Ltd",
 		companylogo: "/img/icons/common/ososlogo.svg",
 		date: "July 2018 - January 2019",
-		desc: "(Front-End & Mobile Development)",
+		//desc: "(Front-End & Mobile Development)",
 		descBullets: [
 			"Developed mobile-friendly web applications with React, Angular, JavaScript, Java, and Kotlin.",
 			"Assisted in implementing REST API calls and integrating UI components with backend data.",
 			"Conducted QA testing to ensure compliance with UI/UX best practices.",
 			"Collaborated with quality engineers, user research, product management, design, and support teams to ensure quality in all phases of app development.",
-			"Worked closely with core technology teams and other platform teams to balance cross-platform consistency with Android optimization.",
 			"Wrote elegant, self-documenting code that is easy to read and adapt for other developers."
 		  ]
 		  
@@ -190,22 +189,22 @@ export const projects = [
 	{
 		name: "COBALT (by Claim shark)",
 		desc: "COBALT (by Claim Shark) is US health care app which deals with health insurance of the users(claims, payments etc.) with automated BOT to verify the user’s data with dynamic dashboards, reports.",
-		tech: "Technologies Used: Angular 13, React Js, .NET, SQL, AZURE",
+		tech: "Technologies: React, Angular 13, TypeScript, .NET Core, SQL Server, Azure",
 	},
 	{
 		name: "POS (Point Of Sale)",
 		desc: "POS (Point Of Sale) is a complete Billing Management App with Sales, Inventory, Purchase, Security, Billing, Helpdesk, Remote Printers Integration, and Smart Dashboards of sales.",
-		tech: "Technologies Used: Angular 11,React Js .Net, PostgreSQL, Cordova, jQuery"
+		tech: "Technologies: Angular 11, React, TypeScript, .NET, PostgreSQL, Cordova, jQuery"
 	},
 	{
 		name: "EasyChit",
 		desc: "Easy Chit is a Loaning and Finance application. EasyCHIT is being continuously updated with new tech and real-world operations workflow of over 300+ branches so your business can leverage all our learning’s and experiences to grow your chit fund business efficiently.",
-		tech: "Technologies Used: Angular 9, .NET, PostgreSQL, C#"
+		tech: "Technologies: Angular 9, .NET, PostgreSQL, C#"
 	},
 	{
 		name: "Spaarks (Mobile & WEB APP)",
 		desc: "Spaarks is a local social network where you can discover shops, services, friends, jobs, and events near you. This is not a platform for buyers alone, instead sellers, home businesses and freelancers can also promote and sell your products and services in the local area.",
-		tech: " Technologies Used: JAVA, XML, KOTLIN, Node JS, Angular"
+		tech: "Technologies: JAVA, XML, KOTLIN, Node JS, Angular"
 	}
 ];
 
