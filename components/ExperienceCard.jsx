@@ -42,11 +42,6 @@ const ExperienceCard = ({ data }) => {
 								alt={data.companylogo}
 							/>
 						</div>
-
-						<CardTitle tag="h5">{data.role}</CardTitle>
-						<CardSubtitle>{data.date}</CardSubtitle>
-						{data.desc && <CardText className="mt-2">{data.desc}</CardText>}
-
 					</CardBody>
 				</Card>
 			</Fade>
