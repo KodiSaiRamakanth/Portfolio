@@ -108,7 +108,7 @@ export const educationInfo = [
 		schoolName: "University Of South Florida",
 		subHeader: "Master of Science in Business Analytics and Information Systems",
 		duration: "AUG 2023 - Present",
-		desc: "CGPA :  3.77",
+		desc: "CGPA :  3.78",
 
 
 	},
