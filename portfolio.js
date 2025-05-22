@@ -4,8 +4,8 @@ export const greetings = {
 	name: "Sai Ramakanth Kodi",
 	title: "Hi all, I'm Ramakanth",
 	description:
-		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with Angular / JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.",
-	resumeLink: "https://drive.google.com/file/d/16y63zU3Nek7t2nDGcyjcJIlKRf_5da1x/view",
+		"A passionate Full Stack Web Developer and Mobile App Developer having an experience of building Web applications with Angular / React.js / JavaScript / Nodejs and some other cool libraries and frameworks.",
+	resumeLink: "https://drive.google.com/file/d/137ltJ1mFFflntHAVaDg8nA1oHtUTvWlt/view",
 };
 
 export const openSource = {
@@ -125,48 +125,49 @@ export const educationInfo = [
 export const experience = [
 
 	{
-		role: "Software Developer ",
+		role: "Front-End Engineer",
 		company: "Algoscale Technologies",
 		companylogo: "/img/icons/common/algoscale.png",
-		date: "May 2022 - June 2023",
-		desc: "(.Net Full Stack)",
+		date: "May 2021 - June 2023",
+		//desc: "(.Net Full Stack)",
 		descBullets: [
-			"Built highly responsive features to application using Angular, leading to a 20% increase in client engagement.",
-			"Refined back - end API services with a focus on clean, scalable code and RESTful principles.",
-			"Integrated React components into existing applications to improve user experience and page performance by over 30 %.",
-			"Architected and implemented a scalable.NET Core solutions for a US HealthCare",
-			"Wrote elegant, self - documenting code, easy to read and adapt for other developers."
-
+			"Developed and optimized React and Angular components, improving user experience and accessibility.",
+			"Delivered responsive UI features for a large-scale healthcare platform, enhancing mobile-first performance.",
+			"Worked with RESTful APIs and GraphQL to integrate front-end applications with backend services.",
+			"Participated in daily stand-ups, sprint planning, and code reviews, following Agile methodologies.",
+			"Provided operational support, debugging, and troubleshooting for UI-related issues in production."
 		]
 
 	},
 	{
-		role: "Traine Software Engineer",
+		role: "Front-End Developer",
 		company: "Kapil IT Solutions",
 		companylogo: "/img/icons/common/kapil.png",
-		date: "April 2021 - April 2022",
-		desc: "(.Net Full Stack)",
+		date: "April 2019 - April 2021",
+		//desc: "(React & Angular)",
 		descBullets: [
-			"Developing & Building Finance Domain ERP Tools using Angular 9.",
-			"Analyzed business requirements, participated in technical design, development and testing of various modules assigned.",
-			"Maintained a suite of ASP.NET MVC web applications, improving code quality and maintainability by refactoring legacy systems",
-			"Developed app integration with REST and other APIs for Google Maps, social media logins, payment processors, and other services",
-			"Wrote elegant, self - documenting code, easy to read and adapt for other developers."
-		],
+			"Designed and implemented interactive web applications using React, Angular, and TypeScript.",
+			"Optimized web performance, reducing page load times by 30% through code splitting and lazy loading.",
+			"Ensured cross-browser compatibility and responsive design for seamless multi-device user experiences.",
+			"Collaborated with designers and backend engineers to align UI components with API integrations.",
+			"Conducted A/B testing and usability research to improve customer engagement and UX."
+		]
+
 	},
 	{
-		role: "Android Developer",
+		role: "Software Engineer Intern",
 		company: "OSOS Pvt.Ltd",
 		companylogo: "/img/icons/common/ososlogo.svg",
-		date: "July 2020 – January 2021",
-		desc: "(Internship)",
+		date: "July 2018 - January 2019",
+		//desc: "(Front-End & Mobile Development)",
 		descBullets: [
-			"Handling the back - office operations(back end) of the app in Java.",
-			"Implemented features for various applications in Java, Kotlin, and C++.",
+			"Developed mobile-friendly web applications with React, Angular, JavaScript, Java, and Kotlin.",
+			"Assisted in implementing REST API calls and integrating UI components with backend data.",
+			"Conducted QA testing to ensure compliance with UI/UX best practices.",
 			"Collaborated with quality engineers, user research, product management, design, and support teams to ensure quality in all phases of app development.",
-			"Worked closely with core technology teams and other platform teams to balance cross - platform Consistency with Android - optimization.",
-			"Wrote elegant, self - documenting code, easy to read and adapt for other developers."
-		]
+			"Wrote elegant, self-documenting code that is easy to read and adapt for other developers."
+		  ]
+		  
 	}
 ];
 
@@ -188,22 +189,22 @@ export const projects = [
 	{
 		name: "COBALT (by Claim shark)",
 		desc: "COBALT (by Claim Shark) is US health care app which deals with health insurance of the users(claims, payments etc.) with automated BOT to verify the user’s data with dynamic dashboards, reports.",
-		tech:"Technologies Used: Angular 13, React Js, .NET, SQL, AZURE",
+		tech: "Technologies: React, Angular 13, TypeScript, .NET Core, SQL Server, Azure",
 	},
 	{
 		name: "POS (Point Of Sale)",
-		desc:"POS (Point Of Sale) is a complete Billing Management App with Sales, Inventory, Purchase, Security, Billing, Helpdesk, Remote Printers Integration, and Smart Dashboards of sales.",
-		tech:"Technologies Used: Angular 11,React Js .Net, PostgreSQL, Cordova, jQuery"
+		desc: "POS (Point Of Sale) is a complete Billing Management App with Sales, Inventory, Purchase, Security, Billing, Helpdesk, Remote Printers Integration, and Smart Dashboards of sales.",
+		tech: "Technologies: Angular 11, React, TypeScript, .NET, PostgreSQL, Cordova, jQuery"
 	},
 	{
-		name:"EasyChit",
-		desc:"Easy Chit is a Loaning and Finance application. EasyCHIT is being continuously updated with new tech and real-world operations workflow of over 300+ branches so your business can leverage all our learning’s and experiences to grow your chit fund business efficiently.",
-		tech:"Technologies Used: Angular 9, .NET, PostgreSQL, C#"
+		name: "EasyChit",
+		desc: "Easy Chit is a Loaning and Finance application. EasyCHIT is being continuously updated with new tech and real-world operations workflow of over 300+ branches so your business can leverage all our learning’s and experiences to grow your chit fund business efficiently.",
+		tech: "Technologies: Angular 9, .NET, PostgreSQL, C#"
 	},
 	{
-		name:"Spaarks (Mobile & WEB APP)",
-		desc:"Spaarks is a local social network where you can discover shops, services, friends, jobs, and events near you. This is not a platform for buyers alone, instead sellers, home businesses and freelancers can also promote and sell your products and services in the local area.",
-		tech:" Technologies Used: JAVA, XML, KOTLIN, Node JS, Angular"
+		name: "Spaarks (Mobile & WEB APP)",
+		desc: "Spaarks is a local social network where you can discover shops, services, friends, jobs, and events near you. This is not a platform for buyers alone, instead sellers, home businesses and freelancers can also promote and sell your products and services in the local area.",
+		tech: "Technologies: JAVA, XML, KOTLIN, Node JS, Angular"
 	}
 ];
 
